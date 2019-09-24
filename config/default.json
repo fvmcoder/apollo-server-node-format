@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "mvf_mySecretKey",
-  "db": "mvf_db"
+  "db": "http://localhost:27017/your_DB"
 }

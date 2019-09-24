@@ -1,4 +1,4 @@
 {
-  "jwtPrivateKey": "mvf_mySecretKey",
-  "db": "mvf_db"
+  "jwtPrivateKey": "SECRET_KEY",
+  "db": "DB_PATH"
 }
